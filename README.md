@@ -1,6 +1,6 @@
-### Hi there 👋
+# Olá! Eu sou a Luiz Henrique
+![tenor](https://user-images.githubusercontent.com/76491544/124181599-1951cd00-da8c-11eb-8a0d-8f07f9e1b04c.gif)
 
-<!--
 **luiz-pr/luiz-pr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
