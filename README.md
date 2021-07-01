@@ -1,11 +1,13 @@
-# Olá! Eu sou a Luiz Henrique
+# Olá! Eu sou o 
+Luiz Henrique
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-pr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-pr&layout=compact&langs_count=16&theme=tokyonight"/>
 </div
+<!--   [tenor](https://user-images.githubusercontent.com/76491544/124187555-6174ed80-da94-11eb-9e7d-665fc4c037e9.gif) -->
  
-<!-- ![tenor](https://user-images.githubusercontent.com/76491544/124181599-1951cd00-da8c-11eb-8a0d-8f07f9e1b04c.gif) -->
+
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,6 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="luiz-gif" width="200px" src="https://user-images.githubusercontent.com/76491544/124187555-6174ed80-da94-11eb-9e7d-665fc4c037e9.gif"/>
 </div>
  
  ##
