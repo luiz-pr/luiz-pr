@@ -11,7 +11,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="luiz-gif" src="https://user-images.githubusercontent.com/76491544/124187555-6174ed80-da94-11eb-9e7d-665fc4c037e9.gif"/>
+  <img align="right" alt="luiz-gif" width="40%" src="https://user-images.githubusercontent.com/76491544/124187555-6174ed80-da94-11eb-9e7d-665fc4c037e9.gif"/>
 </div>
  
  ##
