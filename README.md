@@ -2,13 +2,10 @@
 Luiz Henrique
 
 <div>
- <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=luiz-pr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-pr&layout=compact&langs_count=16&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-pr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-pr&layout=compact&langs_count=16&theme=tokyonight"/>
 </div
-<!--   [tenor](https://user-images.githubusercontent.com/76491544/124187555-6174ed80-da94-11eb-9e7d-665fc4c037e9.gif) -->
- 
 
- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
