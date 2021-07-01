@@ -1,19 +1,28 @@
 # Olá! Eu sou a Luiz Henrique
 
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-pr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-pr&layout=compact&langs_count=16&theme=tokyonight"/>
+</div
+ 
+<!-- ![tenor](https://user-images.githubusercontent.com/76491544/124181599-1951cd00-da8c-11eb-8a0d-8f07f9e1b04c.gif) -->
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+ 
+ ##
+ 
+ <div>
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/luizhenriquematias292020" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/Lubr-oficial#3920" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:luizzhenriquematias29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=luiz-pr$how_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-pr=compact&langs_count=16&theme=dracula"/>
-
-![tenor](https://user-images.githubusercontent.com/76491544/124181599-1951cd00-da8c-11eb-8a0d-8f07f9e1b04c.gif)
-
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
-
-
- [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/luizhenriquematias292020/)
- [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100047448721181)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ </div>
