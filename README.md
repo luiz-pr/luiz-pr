@@ -1,4 +1,6 @@
 # Olá! Eu sou o Luiz Henrique
+# Tenho 14 anos de idade
+
 <div>
  <a href="https://github.com/luiz-pr">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luiz-pr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
