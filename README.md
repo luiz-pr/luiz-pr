@@ -1,8 +1,8 @@
 # Olá! Eu sou o Luiz Henrique
 <div>
  <a href="https://github.com/luiz-pr">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luiz-pr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-pr&layout=compact&langs_count=16&theme=tokyonight"/>
+ <img height="163em" src="https://github-readme-stats.vercel.app/api?username=luiz-pr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="163em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-pr&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img href="#" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
