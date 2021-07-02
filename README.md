@@ -20,8 +20,6 @@
   <img height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="30" align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
  
   <img align="right" alt="luiz-gif" width="30%" src="https://user-images.githubusercontent.com/76491544/124187555-6174ed80-da94-11eb-9e7d-665fc4c037e9.gif"/> 
 </div>
