@@ -1,9 +1,9 @@
-# Olá! Eu sou o Luiz Henrique
+# Luiz Henrique
 ## Tenho 14 anos de idade
 ## Sou Desenvolvedor Web Júnior
 ## Com uma boa experiência em HTML5, CSS3, JAVASCRIPT, PYTHON, GIT e GITHUB
 ## Estou aprendendo JAVA, MYSQL, PHP e C#
-### As Linguagens de programação que eu pretendo dominar são REACT, REACT NATIVE, ANGULAR, DOCKER, C, RUBY, ALGORITIMO entre outras...
+### As Linguagens de programação que eu pretendo dominar são REACT, REACT NATIVE, ANGULAR, DOCKER, C, RUBY entre outras...
 
 <div>
  <a href="https://github.com/luiz-pr">
